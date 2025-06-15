@@ -1,0 +1,30 @@
+# NGO WORLDWIDE LTD Website 🌍
+
+Official website for **NGO WORLDWIDE LTD**, now live and hosted at:  
+🔗 [https://ngo-worldwide-impact.onrender.com](https://ngo-worldwide-impact.onrender.com)
+
+---
+
+## 🌐 Live Website
+
+Click here to view:  
+👉 [https://ngo-worldwide-impact.onrender.com](https://ngo-worldwide-impact.onrender.com)
+
+---
+
+## 🚀 Deployment Info
+
+This website is now hosted on **Render**.  
+To update the website:
+- Push changes to the `main` branch on GitHub
+- Render will automatically deploy the latest version
+
+---
+
+## 🛠️ Getting Started
+
+Clone the repository and edit locally:
+
+```bash
+git clone https://github.com/Alexanderk424/ngo-worldwide.git
+cd ngo-worldwide
